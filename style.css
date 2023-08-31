@@ -6,9 +6,13 @@ body {
 }
 
 .parent {
-  border-color: black;
-  border-width: 1px;
-  border-style: solid;
+  /* border: 1px solid black; */
+  margin: 5px;
+  padding: 5px;
+}
+
+.contact {
+  /* border: 1px solid black; */
   margin: 5px;
   padding: 5px;
 }
